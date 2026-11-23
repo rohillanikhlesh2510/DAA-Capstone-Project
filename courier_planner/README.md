@@ -1,5 +1,9 @@
 # Mini-Courier Planner
 
+**Author:** Nikhlesh Rohilla  
+**Roll No:** 2501730005  
+**Course:** Design and Analysis of Algorithms (DAA Capstone)  
+
 An algorithm-based courier planning application developed for the Design and Analysis of Algorithms (ADA) capstone. The application combines parcel sorting, capacity-constrained parcel selection, shortest-path computation, and approximate delivery-route construction.
 
 ## Project Overview
