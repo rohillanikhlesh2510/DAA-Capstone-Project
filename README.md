@@ -6,7 +6,7 @@
 
 An algorithm-based courier planning application developed for the Design and Analysis of Algorithms (ADA) capstone. The application combines parcel sorting, capacity-constrained parcel selection, shortest-path computation, and approximate delivery-route construction.
 
-## Project Overview
+## Project Overview 
 
 The system processes parcel orders and a weighted road network through the following stages:
 
