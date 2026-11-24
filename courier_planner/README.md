@@ -22,7 +22,7 @@ The route produced by Nearest-Neighbor is a heuristic solution. It is not guaran
 ```text
 capstone_project/
 ├── README.md
-├── report.md
+├── DAA_Capstone_Report_Nikhlesh_Rohilla.pdf
 ├── runtime.png
 └── courier_planner/
     ├── __init__.py
@@ -149,4 +149,4 @@ Possible extensions include deadline-feasibility checks using estimated arrival 
 
 ## Detailed Report
 
-See [`report.md`](report.md) for the detailed problem formulation, algorithm design, complexity discussion, and experimental analysis.
+See [`DAA_Capstone_Report_Nikhlesh_Rohilla.pdf`](../DAA_Capstone_Report_Nikhlesh_Rohilla.pdf) for the complete professional project report, problem formulation, algorithm design, complexity analysis, and experimental results.
