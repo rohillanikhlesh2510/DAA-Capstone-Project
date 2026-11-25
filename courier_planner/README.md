@@ -1,8 +1,23 @@
-# Mini-Courier Planner
+# 📦 Mini-Courier Planner
 
-**Author:** Nikhlesh Rohilla  
-**Roll No:** 2501730005  
-**Course:** Design and Analysis of Algorithms (DAA Capstone)  
+<div align="center">
+
+### Design and Analysis of Algorithms — Capstone Project
+
+[![Author: Nikhlesh Rohilla](https://img.shields.io/badge/Author-Nikhlesh%20Rohilla-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohillanikhlesh2510)
+[![Roll No: 2501730005](https://img.shields.io/badge/Roll%20No-2501730005-F9A825?style=for-the-badge)](https://github.com/rohillanikhlesh2510)
+[![Course: DAA](https://img.shields.io/badge/Course-DAA%20Capstone-2E7D32?style=for-the-badge)](#)
+[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+</div>
+
+---
+
+| 👤 **Student Name** | 🆔 **Roll Number** | 📚 **Course / Subject** | 📄 **Project Report** |
+| :--- | :--- | :--- | :--- |
+| **Nikhlesh Rohilla** | `2501730005` | Design and Analysis of Algorithms (DAA Capstone) | [Download PDF Report](../DAA_Capstone_Report_Nikhlesh_Rohilla.pdf) |
+
+---
 
 An algorithm-based courier planning application developed for the Design and Analysis of Algorithms (ADA) capstone. The application combines parcel sorting, capacity-constrained parcel selection, shortest-path computation, and approximate delivery-route construction.
 
@@ -34,7 +49,6 @@ capstone_project/
     ├── tsp.py
     ├── benchmark.py
     ├── README.md
-    ├── report.md
     ├── SUMMARY.md
     ├── runtime.png
     └── data/
@@ -150,3 +164,16 @@ Possible extensions include deadline-feasibility checks using estimated arrival 
 ## Detailed Report
 
 See [`DAA_Capstone_Report_Nikhlesh_Rohilla.pdf`](../DAA_Capstone_Report_Nikhlesh_Rohilla.pdf) for the complete professional project report, problem formulation, algorithm design, complexity analysis, and experimental results.
+
+---
+
+## 👨‍💻 Author Details
+
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | **Nikhlesh Rohilla** |
+| **Roll Number** | `2501730005` |
+| **Course** | Design and Analysis of Algorithms (DAA Capstone) |
+| **GitHub Profile** | [@rohillanikhlesh2510](https://github.com/rohillanikhlesh2510) |
+| **Repository** | [DAA-Capstone-Project](https://github.com/rohillanikhlesh2510/DAA-Capstone-Project) |
+
